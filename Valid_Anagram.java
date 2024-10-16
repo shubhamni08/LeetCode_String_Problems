@@ -1,7 +1,6 @@
 package leetcode_String;
 
 import java.util.HashMap;
-
 public class Valid_Anagram {
 
 	public static void main(String[] args) {
