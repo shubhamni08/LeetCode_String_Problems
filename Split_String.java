@@ -18,6 +18,5 @@ public class Split_String {
 			x=x.trim();
 			System.out.print(x+" ");
 		}
-		
 	}
 }
