@@ -28,6 +28,7 @@ public class Valid_Anagram {
         		hm1.put(s.charAt(i), 1);       	
         	}
         }
+		
         for(int i=0;i<t.length();i++) {
         	if(hm2.containsKey(t.charAt(i))) {
         		//if key already present then value++
