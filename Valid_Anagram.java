@@ -8,6 +8,7 @@ public class Valid_Anagram {
 		String t = "velel";
 		System.out.println(isAnagram(s, t));
 	}
+	
 	public static boolean isAnagram(String s, String t) {
 		s = s.toLowerCase();
 		t = t.toLowerCase();
