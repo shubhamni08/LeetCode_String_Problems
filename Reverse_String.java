@@ -9,6 +9,7 @@ public class Reverse_String {
 //		char[] s = {'h','e','l','l','o'};
 		char[] s = s1.toCharArray();
 		System.out.println(s);
+		
 		char[] ans = reverseString(s);
 		System.out.println(ans);
 	}
