@@ -9,6 +9,7 @@ public class Reverse_Integer {
 		int x = -123;
 		int ans = reverse(x);
 		System.out.println(ans);
+		
 	}
 	
 	public static int reverse(int x) {
