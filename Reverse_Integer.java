@@ -5,9 +5,7 @@ public class Reverse_Integer {
 //eg. 2 - Input: x = -123, Output: -321
 //eg. 3 - Input: x = 120, Output: 21
 	public static void main(String[] args) {
-		
 		int x = -123;
-		
 		int ans = reverse(x);
 		System.out.println(ans);
 		
